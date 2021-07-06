@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "262406094895",
+    "project_id": "yaax-7ac63",
+    "storage_bucket": "yaax-7ac63.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262406094895:android:96d55aa04dd0b9b9b1c6da",
+        "android_client_info": {
+          "package_name": "com.obio.yaax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "262406094895-dop90t68abv09uvej32rke2uaniumpt1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBs78A4hn8fn_zT0K-gCNS4zGFW2ecArmk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "262406094895-dop90t68abv09uvej32rke2uaniumpt1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
